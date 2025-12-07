@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dd21h7f5y34a0"
-path="res://.godot/imported/Dungfly.icon.png-dbfb09317dfb52caebb2cbe3ec830b3e.ctex"
+path="res://.godot/imported/Dungfly.icon.png-bf1a2de013f7edaf134f6a3a767b745e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://html_export/Dungfly.icon.png"
-dest_files=["res://.godot/imported/Dungfly.icon.png-dbfb09317dfb52caebb2cbe3ec830b3e.ctex"]
+source_file="res://html_export/flies/Dungfly.icon.png"
+dest_files=["res://.godot/imported/Dungfly.icon.png-bf1a2de013f7edaf134f6a3a767b745e.ctex"]
 
 [params]
 
